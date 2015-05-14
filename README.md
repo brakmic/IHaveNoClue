@@ -1,6 +1,7 @@
 **Calling a C-DLL from Rust**
 
-This is a tiny experiment based on the new <a href="https://github.com/PistonDevelopers/VisualRust" target="_blank">VisualRust</a> Extension for Visual Studio 2013. 
+This is a tiny experiment based on the new <a href="https://github.com/PistonDevelopers/VisualRust" target="_blank">VisualRust</a> Extension for Visual Studio 2013
+from <a href="http://www.piston.rs/" target="_blank">PistonDevelopers</a>.
 
 I have almost no experience with Rust, so I thought I could learn a bit about it by creating a 
 client Exe that calls some external C-DLL. As far as I know Rust can't call C++ DLLs (because of ABI, I suppose), so I created a 
