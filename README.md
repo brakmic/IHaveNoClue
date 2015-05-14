@@ -35,3 +35,7 @@ For the second option **Cargo run** settings are almost the same, just replace "
 **Output**
 
 <img src="http://r44.imgup.net/msvs_rust_31d0.png">
+
+**License**
+
+MIT
