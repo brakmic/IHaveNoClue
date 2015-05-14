@@ -22,11 +22,11 @@ This is how it looks on my machine:
 
 <img src="http://w70.imgup.net/external_t0dcd.png">
 
-To configure your own build/run Scripts go to Tools/External tools and add this:
+To configure your own build/run Scripts go to Tools/External tools and add following:
 
 <img src="http://o14.imgup.net/cargo_buil8014.png">
 
-for Cargo run just replace the "build" option with "run".
+For the second option **Cargo run** the settings are almost the same, just replace the "build" option with "run".
 
 **Screenshot**
 
