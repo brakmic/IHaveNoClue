@@ -11,9 +11,13 @@ The target arch is *Windows x64*.
 
 **VS-Compiling and using Cargo**
 
-Because there's currently no support for Rust's Cargo you have to manually create a proper Cargo.toml file and invoke
-the build process via Console. In this <a href="https://github.com/PistonDevelopers/VisualRust/issues/3" target="_blank">Thread</a> from the VisualRust Team you can find more info
-regarding Cargo integration.
+Because there's currently no support for Rust's **Cargo** you have to manually create a proper *Cargo.toml* file and invoke
+the build process via Console.
+
+<img src="http://p71.imgup.net/cargo_tomlaa20.png">
+
+In this <a href="https://github.com/PistonDevelopers/VisualRust/issues/3" target="_blank">Thread</a> from the VisualRust Team you can find more info
+regarding the **Cargo integration**.
 
 **Using VS External Tools**
 
