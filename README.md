@@ -30,7 +30,7 @@ To configure your own build/run Scripts go to *Tools/External* menu and add the 
 
 <img src="http://o14.imgup.net/cargo_buil8014.png"  height="600" width="500">
 
-For the second option **Cargo run** settings are almost the same, just replace "build" with "run".
+For the second option, **Cargo run**, settings are almost the same, just replace "build" with "run".
 
 **Output**
 
