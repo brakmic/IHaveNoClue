@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "IHaveNoClue", "IHaveNoClue\IHaveNoClue.rsproj", "{0890843F-CC14-47D1-BBAE-949F68DEF388}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IAmALibrary", "IAmALibrary\IAmALibrary.vcxproj", "{C7D2ADA6-A7CE-4906-BE66-17110055F28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0890843F-CC14-47D1-BBAE-949F68DEF388}.Debug|Mixed Platforms.ActiveCfg = Debug|default
+		{0890843F-CC14-47D1-BBAE-949F68DEF388}.Debug|Mixed Platforms.Build.0 = Debug|default
+		{0890843F-CC14-47D1-BBAE-949F68DEF388}.Debug|Win32.ActiveCfg = Debug|default
+		{0890843F-CC14-47D1-BBAE-949F68DEF388}.Debug|x64.ActiveCfg = Debug|default
+		{0890843F-CC14-47D1-BBAE-949F68DEF388}.Release|Mixed Platforms.ActiveCfg = Release|default
+		{0890843F-CC14-47D1-BBAE-949F68DEF388}.Release|Mixed Platforms.Build.0 = Release|default
+		{0890843F-CC14-47D1-BBAE-949F68DEF388}.Release|Win32.ActiveCfg = Release|default
+		{0890843F-CC14-47D1-BBAE-949F68DEF388}.Release|x64.ActiveCfg = Release|default
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Debug|Win32.Build.0 = Debug|Win32
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Debug|x64.ActiveCfg = Debug|x64
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Debug|x64.Build.0 = Debug|x64
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Release|Win32.ActiveCfg = Release|Win32
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Release|Win32.Build.0 = Release|Win32
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Release|x64.ActiveCfg = Release|x64
+		{C7D2ADA6-A7CE-4906-BE66-17110055F28C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

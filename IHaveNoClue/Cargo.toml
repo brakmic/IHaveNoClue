@@ -1,0 +1,12 @@
+[package]
+
+name = "main"
+version = "0.0.1"
+authors = ["Harris Brakmic <brakmic@gmail.com>"]
+
+[dependencies]
+libc = "*"
+
+[[bin]]
+
+name = "IHaveNoClue"
