@@ -9,7 +9,7 @@ simple C project within the Rust-solution.
 
 The target arch is *Windows x64*.
 
-**VS-Compiling and using Cargo**
+**VS-Compiling and Cargo usage**
 
 Because there's currently no support for Rust's **Cargo** you have to manually create a proper *Cargo.toml* file and invoke
 the build process via Console.
