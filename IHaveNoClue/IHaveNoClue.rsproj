@@ -25,5 +25,8 @@
     <Folder Include="src\" />
     <Code Include="src\main.rs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Cargo.toml" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\VisualRust\VisualRust.Rust.targets" />
 </Project>
