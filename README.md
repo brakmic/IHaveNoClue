@@ -4,7 +4,7 @@ This is a tiny experiment based on the new <a href="https://github.com/PistonDev
 from <a href="http://www.piston.rs/" target="_blank">PistonDevelopers</a>.
 
 I have almost no Rust experience, so I thought I could learn a bit about it by creating a
-client Exe that calls a C-DLL via <a href="https://doc.rust-lang.org/book/ffi.html" target="_blank">FFI</a>. As far as I know Rust can't call C++ DLLs (because of ABI, I suppose) therefore I modified the original C++ project to produce a pure C-DLL.
+client Exe that calls a C-DLL via <a href="https://doc.rust-lang.org/book/ffi.html" target="_blank">FFI</a>. As far as I know Rust can't call C++ DLLs therefore I modified the original C++ project to produce a pure C-DLL.
 
 The target arch is *Windows x64*.
 
