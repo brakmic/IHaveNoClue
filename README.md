@@ -9,6 +9,8 @@ Therefore I modified the original C++ project to produce a pure C-DLL.
 
 The target arch is *Windows x64*.
 
+If you like to learn more about Rust and its ecosystem you can visit my <a href="https://rust.zeef.com/harris.brakmic" target="_blank">link-list</a>.
+
 **VS-Compiling and Cargo usage**
 
 Because there's currently no support for Rust's **Cargo** you have to manually create a proper *Cargo.toml* file and invoke
