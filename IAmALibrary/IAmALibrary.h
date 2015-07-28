@@ -10,7 +10,10 @@
 #define IAMALIBRARY_API __declspec(dllimport)
 #endif
 
-
 extern IAMALIBRARY_API int nIAmALibrary;
 
-IAMALIBRARY_API int fnIAmALibrary(void);
+extern IAMALIBRARY_API struct CarrierObject;
+
+extern "C" IAMALIBRARY_API int SampleFunction(int a, int b);
+
+extern "C" IAMALIBRARY_API void WriteContent(CarrierObject* obj);

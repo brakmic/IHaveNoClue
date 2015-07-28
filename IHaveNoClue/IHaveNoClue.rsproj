@@ -10,15 +10,15 @@
     <RootNamespace>IHaveNoClue</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|default' ">
-    <LinkTimeOptimization>false</LinkTimeOptimization>
-    <DebugSymbols>true</DebugSymbols>
+    <LinkTimeOptimization>False</LinkTimeOptimization>
+    <DebugSymbols>True</DebugSymbols>
     <OptimizationLevel>0</OptimizationLevel>
     <PlatformTarget>default</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|default' ">
-    <LinkTimeOptimization>false</LinkTimeOptimization>
-    <DebugSymbols>false</DebugSymbols>
-    <OptimizationLevel>2</OptimizationLevel>
+    <LinkTimeOptimization>False</LinkTimeOptimization>
+    <DebugSymbols>True</DebugSymbols>
+    <OptimizationLevel>0</OptimizationLevel>
     <PlatformTarget>default</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
