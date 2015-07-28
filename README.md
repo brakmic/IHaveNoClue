@@ -27,11 +27,11 @@ regarding the **Cargo integration**.
 I'd suggest to add two "External Tools" entries in your VS and configure them to invoke "Cargo build" respective "Cargo run".
 This is how it looks on my machine:
 
-<img src="http://w70.imgup.net/external_t0dcd.png" height="600" width="400">
+<img src="http://w70.imgup.net/external_t0dcd.png" height="300" width="200">
 
 To configure your own build/run Scripts go to *Tools/External* menu and add the following:
 
-<img src="http://o14.imgup.net/cargo_buil8014.png"  height="600" width="500">
+<img src="http://o14.imgup.net/cargo_buil8014.png"  height="300" width="250">
 
 For the second option, **Cargo run**, settings are almost the same, just replace "build" with "run".
 
