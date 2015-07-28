@@ -24,7 +24,7 @@ regarding the **Cargo integration**.
 
 **Using VS External Tools**
 
-I'd suggest to add two "External Tools" entries in your VS and configure them to invoke "Cargo build" respective "Cargo run".
+I'd suggest to add two "External Tools" entries into the Tools-menu and configure them to invoke "Cargo build" respective "Cargo run".
 This is how it looks on my machine:
 
 <img src="http://w70.imgup.net/external_t0dcd.png" height="400" width="250">
