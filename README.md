@@ -14,7 +14,7 @@ If you like to learn more about Rust and its ecosystem you can visit my <a href=
 **VS-Compiling and Cargo usage**
 
 Because there's currently no support for Rust's **Cargo** you have to manually create a proper *Cargo.toml* file and invoke
-the build process via Console. Also don't forget to copy the DLL into Exe's **target** directory. Without the DLL the execution
+the build process via Console. Also don't forget to copy the DLL into Exe's **target/debug** respective **target/release** directory. Without the DLL the execution
 of *cargo build* will fail with error that it *couldn't find the library*.
 
 <img src="http://p71.imgup.net/cargo_tomlaa20.png">
