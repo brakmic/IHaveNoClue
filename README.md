@@ -17,7 +17,7 @@ Because there's currently no support for Rust's **Cargo** you have to manually c
 the build process via Console. Also don't forget to copy the DLL into Exe's **target/debug** respective **target/release** directory. Without the DLL the execution
 of *cargo build* will fail with error that it *couldn't find the library*.
 
-<img src="http://p71.imgup.net/cargo_tomlaa20.png">
+<img src="http://p71.imgup.net/cargo_tomlaa20.png" height="400" width="250">
 
 In this <a href="https://github.com/PistonDevelopers/VisualRust/issues/3" target="_blank">Thread</a> from the VisualRust Team you can find more info
 regarding the **Cargo integration**.
@@ -27,7 +27,7 @@ regarding the **Cargo integration**.
 I'd suggest to add two "External Tools" entries in your VS and configure them to invoke "Cargo build" respective "Cargo run".
 This is how it looks on my machine:
 
-<img src="http://w70.imgup.net/external_t0dcd.png" height="300" width="200">
+<img src="http://w70.imgup.net/external_t0dcd.png" height="400" width="250">
 
 To configure your own build/run Scripts go to *Tools/External* menu and add the following:
 
